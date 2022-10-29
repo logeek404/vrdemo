@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TriggerR
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: RightHand:hands:hands_geom
+    m_Weight: 1
+  - m_Path: RightHand:hands:hands_geom/RightHand:hands:Rhand
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_grip
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_hand_ignore
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_index1
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_index1/RightHand:hands:b_r_index2
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_index1/RightHand:hands:b_r_index2/RightHand:hands:b_r_index3
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_index1/RightHand:hands:b_r_index2/RightHand:hands:b_r_index3/RightHand:hands:b_r_index_ignore
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_middle1
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_middle1/RightHand:hands:b_r_middle2
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_middle1/RightHand:hands:b_r_middle2/RightHand:hands:b_r_middle3
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_middle1/RightHand:hands:b_r_middle2/RightHand:hands:b_r_middle3/RightHand:hands:b_r_middle_ignore
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_pinky0
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_pinky0/RightHand:hands:b_r_pinky1
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_pinky0/RightHand:hands:b_r_pinky1/RightHand:hands:b_r_pinky2
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_pinky0/RightHand:hands:b_r_pinky1/RightHand:hands:b_r_pinky2/RightHand:hands:b_r_pinky3
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_pinky0/RightHand:hands:b_r_pinky1/RightHand:hands:b_r_pinky2/RightHand:hands:b_r_pinky3/RightHand:hands:b_r_pinky_ignore
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_ring1
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_ring1/RightHand:hands:b_r_ring2
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_ring1/RightHand:hands:b_r_ring2/RightHand:hands:b_r_ring3
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_ring1/RightHand:hands:b_r_ring2/RightHand:hands:b_r_ring3/RightHand:hands:b_r_ring_ignore
+    m_Weight: 0
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_thumb1
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_thumb1/RightHand:hands:b_r_thumb2
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_thumb1/RightHand:hands:b_r_thumb2/RightHand:hands:b_r_thumb3
+    m_Weight: 1
+  - m_Path: RightHand:hands:r_hand_world/RightHand:hands:b_r_hand/RightHand:hands:b_r_thumb1/RightHand:hands:b_r_thumb2/RightHand:hands:b_r_thumb3/RightHand:hands:b_r_thumb_ignore
+    m_Weight: 1
