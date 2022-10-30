@@ -887,6 +887,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1549440496 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7348730217395640595, guid: c1471c97b8b7b144894e8bbfe542be9b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7348730217941209175}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2091059148 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7348730218876368630, guid: c1471c97b8b7b144894e8bbfe542be9b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7348730217941209175}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2123405876
 GameObject:
   m_ObjectHideFlags: 0
@@ -1134,6 +1146,41 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1329598336797244767, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: followObject
+      value: 
+      objectReference: {fileID: 2091059148}
+    - target: {fileID: 1329598336797244767, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: animationspeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1329598336797244767, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: rotationOffset.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1329598336812311179, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: followObject
+      value: 
+      objectReference: {fileID: 1549440496}
+    - target: {fileID: 1329598336812311179, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: animationspeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1329598336812311179, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: positionOffset.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1329598336812311179, guid: d18f383b457f9f94393098e6e941f6ee,
+        type: 3}
+      propertyPath: rotationOffset.z
+      value: -90
+      objectReference: {fileID: 0}
     - target: {fileID: 1329598337519806482, guid: d18f383b457f9f94393098e6e941f6ee,
         type: 3}
       propertyPath: m_RootOrder
