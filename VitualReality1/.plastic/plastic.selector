@@ -1,4 +1,0 @@
-repository "VitualReality1@logeek404@cloud.cn"
-  path "/"
-    br "/main"
-    co "/main"
